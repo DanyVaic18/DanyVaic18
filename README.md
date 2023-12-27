@@ -20,8 +20,8 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 ## 💻🏅 MIS HABILIDADES:
 
 ### 📚 Lenguajes:
-![HTML](https://img.shields.io/badge/-HTML5-FFFFF1?style=for-the-badge&logo=html&logoColor=E44D26&labelColor=FFFFF1)
-![CSS](https://img.shields.io/badge/-CSS-254BDD?style=for-the-badge&logo=css&logoColor=254BDD&labelColor=212121)
+![HTML](https://img.shields.io/badge/-HTML-FFFFF1?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=FFFFF1)
+![CSS](https://img.shields.io/badge/-CSS-254BDD?style=for-the-badge&logo=css3&logoColor=254BDD&labelColor=212121)
 ![JAVASCRIPT](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 ![TYPESCRIPT](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 
