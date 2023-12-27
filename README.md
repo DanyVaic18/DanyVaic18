@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋🏽Mucho Gusto, Daniel Pumarejo 💻📑
+<!--  -->
+📌 Soy un desarrollador web; Empece a inicios del 2021 aprendiendo los lenguajes necesarios para ser un desarrollador Frontend y Backend.
+<!--  -->
+
+
+
 
 <!--
 **DanyVaic18/DanyVaic18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
