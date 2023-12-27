@@ -4,7 +4,7 @@
 
 Soy un desarrollador web; Empece a inicios del 2021 aprendiendo los lenguajes necesarios para ser un desarrollador **Frontend** y **Backend**.
 
-### 🎆🎆🎆Actualmente🎆🎆🎆
+### 🎆Actualmente
 Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o interfaces para la aplicación que soliciten,  colaboro como **BACKEND** creando empoints para la API o doy sugerencias como debe llegar la información a la plataforma del cliente.
 
 ### 🌎 Pais de Origen: Colombia 🇨🇴
@@ -17,11 +17,38 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 
 - **🌐 Backend**: He Desarrollado una **API** para una plataforma donde un usuario incie sesión y se registre, también he hecho una conexión de subida de imágenes con CLOUDINARY para alojarlas ahí.
 
+## 💻🏅 MIS HABILIDADES:
+
 ### 📚 Lenguajes:
-![HTML]()
-![CSS]()
-![JAVASCRIPT]()
-![TYPESCRIPT]()
+![HTML](https://img.shields.io/badge/-HTML5-FFFFF1?style=for-the-badge&logo=html&logoColor=E44D26&labelColor=FFFFF1)
+![CSS](https://img.shields.io/badge/-CSS-254BDD?style=for-the-badge&logo=css&logoColor=254BDD&labelColor=212121)
+![JAVASCRIPT](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![TYPESCRIPT](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+
+### FRAMEWORKS
+
+- FRONTEND
+![REACTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![NEXTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![VITEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+
+- BACKEND
+![DENO](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![NODEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+
+### LIBRERIAS
+
+- FRONTEND
+![TAILWINDCSS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![BOOSTRAP]
+
+- BACKEND
+![EXPRESSJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+
+
+
+### BASES DE DATOS
+
 
 
 
