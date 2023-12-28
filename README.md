@@ -17,6 +17,8 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 
 - **🌐 Backend**: He Desarrollado una **API** para una plataforma donde un usuario incie sesión y se registre, también he hecho una conexión de subida de imágenes con CLOUDINARY para alojarlas ahí.
 
+<hr>
+
 ## 💻🏅 MIS HABILIDADES:
 
 ### 📚 Lenguajes:
@@ -50,6 +52,7 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-FFFFF1?style=for-the-badge&logo=express&logoColor=FFFFF1&labelColor=212121)
 
 ### BASES DE DATOS
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=212121)
 
 
 <!--
