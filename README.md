@@ -35,15 +35,15 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 
 - BACKEND
 
-![DENO](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
-![NODEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![DENO](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=deno&logoColor=FFFFF1&labelColor=212121)
+![NODEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=node.js&logoColor=FFFFF1&labelColor=212121)
 
 ### LIBRERIAS
 
 - FRONTEND
 
-![TAILWINDCSS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
-![BOOSTRAP]()
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWIND-61CAF8?style=for-the-badge&logo=tailwindcss&logoColor=61CAF8&labelColor=212121)
+![BOOSTRAP](https://img.shields.io/badge/-BOOSTRAP-7114F6?style=for-the-badge&logo=bootstrap&logoColor=7114F6&labelColor=FFFFF1)
 
 - BACKEND
 
