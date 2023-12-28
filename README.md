@@ -23,12 +23,12 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=FFFFF1)
 ![CSS](https://img.shields.io/badge/-CSS-254BDD?style=for-the-badge&logo=css3&logoColor=254BDD&labelColor=FFFFF1)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-DBBC1F?style=for-the-badge&logo=javascript&logoColor=DBBC1F&labelColor=212121)
-![TYPESCRIPT](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=212121)
 
 ### FRAMEWORKS
 
 - FRONTEND
-![REACTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![REACTJS](https://img.shields.io/badge/-REACT-212121?style=for-the-badge&logo=react&logoColor=00C6F7&labelColor=212121)
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 ![VITEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 
