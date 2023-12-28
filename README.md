@@ -31,12 +31,12 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 
 ![REACTJS](https://img.shields.io/badge/-REACT-2091CC?style=for-the-badge&logo=react&logoColor=00C6F7&labelColor=212121)
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
-![VITEJS](https://img.shields.io/badge/-NEXTJS-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=212121)
+![VITE](https://img.shields.io/badge/-VITE-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=212121)
 
 - BACKEND
 
-![DENO](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=deno&logoColor=FFFFF1&labelColor=212121)
-![NODEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=node.js&logoColor=FFFFF1&labelColor=212121)
+![DENO](https://img.shields.io/badge/-DENO-22C55E?style=for-the-badge&logo=deno&logoColor=FFFFF1&labelColor=212121)
+![NODEJS](https://img.shields.io/badge/-NODEJS-026E00?style=for-the-badge&logo=node.js&logoColor=026E00&labelColor=212121)
 
 ### LIBRERIAS
 
