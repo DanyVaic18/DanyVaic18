@@ -28,33 +28,28 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 ### FRAMEWORKS
 
 - FRONTEND
-![REACTJS](https://img.shields.io/badge/-REACT-212121?style=for-the-badge&logo=react&logoColor=00C6F7&labelColor=212121)
+
+![REACTJS](https://img.shields.io/badge/-REACT-2091CC?style=for-the-badge&logo=react&logoColor=00C6F7&labelColor=212121)
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
-![VITEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
+![VITEJS](https://img.shields.io/badge/-NEXTJS-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=212121)
 
 - BACKEND
+
 ![DENO](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 ![NODEJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 
 ### LIBRERIAS
 
 - FRONTEND
+
 ![TAILWINDCSS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
-![BOOSTRAP]
+![BOOSTRAP]()
 
 - BACKEND
-![EXPRESSJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 
-
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-FFFFF1?style=for-the-badge&logo=express&logoColor=FFFFF1&labelColor=212121)
 
 ### BASES DE DATOS
-
-
-
-
-
-
-
 
 
 <!--
