@@ -35,6 +35,7 @@ Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o int
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-FFFFF1?style=for-the-badge&logo=next.js&logoColor=FFFFF1&labelColor=212121)
 
 - BACKEND
+
 ![NODEJS](https://img.shields.io/badge/-NODEJS-026E00?style=for-the-badge&logo=node.js&logoColor=026E00&labelColor=212121)
 
 ### LIBRERIAS
