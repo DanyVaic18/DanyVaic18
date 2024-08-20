@@ -2,20 +2,19 @@
 
 ## 📌 Sobre Mi
 
-Soy un desarrollador web; Empece a inicios del 2021 aprendiendo los lenguajes necesarios para ser un desarrollador **Frontend** y **Backend**.
+Soy un desarrollador web, empece a inicios del 2021 aprendiendo HTML y CSS, un año después apredí javascript como lenguaje principal de programación gracias a un bootcamp que me dio la oportunidad y donde consegí ahí mi primer empleo. Donde poco fui trabajando con el lenguaje y aprediendo cada vez más acerca del mismo.  
 
 ### 🎆Actualmente
-Trabajo como desarrollador **FRONTEND** haciendo landings pages aplication o interfaces para la aplicación que soliciten,  colaboro como **BACKEND** creando empoints para la API o doy sugerencias como debe llegar la información a la plataforma del cliente.
-
-### 🌎 Pais de Origen: Colombia 🇨🇴
+Trabajo como desarrollador **FRONTEND** donde realizo diferentes páginas web relacionadas con videojuegos, además de desarrollar paneles de control con varias integraciones con distintas aplicaciones necesarias para la previsualización de los usuario que visitan las páginas. Por Ejemplo: Canales o Servidores de Discord o Google Analitics.
 
 ### Proyectos
 
-- **🌐 Frontend**: Desarrolle una aplicación que sirve para crear un archivo pdf con información estática y dinamica que se pudiera editar. También en una página de usuario para registrarse iniciar sesión y demás.
+- **🌐 Frontend**
+1. Desarrolle una aplicación web donde requeria automatizar cierta información de un pdf de manera dinámica y eficiente. Utilice React Js como software junto la libreria de React PDF para cumplir con los requisitos de la aplicación. (2022)
+2. Realice una landing page donde me dieron los diseños por FIGMA de una profesional community manager de la ciudad de Cúcuta. La landing la realice con React JS, Typescript, Taildwind Css. (2024)  [marcelaquintana](https://www.marcelaquintana.com/).
  
-###### Por el Otro lado:
-
-- **🌐 Backend**: He Desarrollado una **API** para una plataforma donde un usuario incie sesión y se registre, también he hecho una conexión de subida de imágenes con CLOUDINARY para alojarlas ahí.
+- **🌐 Backend**
+3. Desarrolle una pequeña API con Node js y Express que use en el proyecto de los PDF para almacenar los datos que se necesitaban para agilizar la información del pdf.
 
 <hr>
 
