@@ -2,7 +2,7 @@
 
 ## 📌 Sobre Mi
 
-Soy un desarrollador web, empece a inicios del 2021 aprendiendo HTML y CSS, un año después apredí javascript como lenguaje principal de programación gracias a un bootcamp que me dio la oportunidad y donde consegí ahí mi primer empleo. Donde poco fui trabajando con el lenguaje y aprediendo cada vez más acerca del mismo.  
+Soy un desarrollador web que empece a inicios del 2021 aprendiendo HTML y CSS, un año después apredí javascript como lenguaje principal de programación gracias a un bootcamp que me dio la oportunidad y donde conseguí ahí mi primer empleo. Donde poco fui trabajando con el lenguaje y aprediendo cada vez más acerca del mismo.  
 
 ### 🎆Actualmente
 Trabajo como desarrollador **FRONTEND** donde realizo diferentes páginas web relacionadas con videojuegos, además de desarrollar paneles de control con varias integraciones con distintas aplicaciones necesarias para la previsualización de los usuario que visitan las páginas. Por Ejemplo: Canales o Servidores de Discord o Google Analitics.
